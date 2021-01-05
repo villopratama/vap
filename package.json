@@ -1,5 +1,5 @@
 {
-  "name": "wabot-aq",
+  "name": "vap",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@adiwajshing/baileys": "^3.3.2",
+    "@villopratama": "^3.3.2",
     "chalk": "^4.1.0",
     "file-type": "^16.1.0",
     "form-data": "^3.0.0",
